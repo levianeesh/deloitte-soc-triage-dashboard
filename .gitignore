@@ -1,0 +1,14 @@
+# Node
+node_modules/
+
+# Python
+ml-engine/venv/
+__pycache__/
+*.pyc
+
+# Security Secrets (NEVER PUSH THESE)
+.env
+
+# MacOS/Windows junk
+.DS_Store
+Thumbs.db
